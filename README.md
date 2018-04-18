@@ -13,7 +13,7 @@ TODO:
 3. 把页面做的漂亮点，用户使用逻辑考虑更加周全合理点，把这个完全分离出去作为一个独立的repo。
 
 
-### Project Name: 京东首页淡入淡出轮播图 [link]()
+### Project Name: 京东首页淡入淡出轮播图 [link](https://github.com/eeechoo/slide-component)
 Description:
 很多网站都有这种轮播效果图
 
@@ -22,7 +22,7 @@ TODO:
 2. 添加定时器，对图片进行轮播
 
 
-### Project Name: 弹窗效果 [link]()
+### Project Name: 弹窗效果 [link]() 没链接，等学习学习bootstrap样式规范，做个漂亮点的出来:joy:
 Description:
 1. 这个功能可以添加进Todo List，也可以独立的作为一个插件使用，所以在设计上要作为插件设计。
 2. 假设如下场景，你点击了某个todo的删除按钮，这个有个弹窗弹出，提醒其确认删除还是取消本次操作。
